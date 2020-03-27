@@ -20,7 +20,7 @@ const LoginForm= ()=> (
         <Button color='teal'fluid size='large'> Login </Button>
       </Segment>
     </Form>
-    <Message>New To us? <a href='google.com'>Sign Up </a> </Message>
+    <Message>New To us? <a href='msn.com'>Sign Up </a> </Message>
   </Grid.Column>
 </Grid>
 )
